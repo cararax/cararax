@@ -14,7 +14,7 @@
 - I'm looking forward to learn **SOLID, Design Patterns, RabbitMQ, CI/CD, AWS**
 
 
-- 💬 As/k me about **Backend Development, API Rest, Git, Linux**
+- 💬 Ask me about **Backend Development, API Rest, Git, Linux**
 - 👨‍💻 My **main projects** are available at [https://github.com/cararax](https://github.com/cararax)
 
 
