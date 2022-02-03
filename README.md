@@ -8,10 +8,10 @@
 [//]: # (<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cararax" alt="cararax" /></a> </p>)
 
 - 🔭 I'm working at [META IT](https://www.meta.com.br/) as a **backend developer**
-- 📖 🎓I'm graduating in **Internet Systems Technology @ [UFSM](https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-sistemas-para-internet/)**
+- 🎓I'm graduating in **Internet Systems Technology @ [UFSM](https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-sistemas-para-internet/)**
 
 - 🌱 I’m currently learning **Java, Spring Boot, Docker, Spring Cloud, Microservices**
-- I'm looking forward to learn **SOLID, Design Patterns, RabbitMQ, CI/CD, AWS**
+- 📖I'm looking forward to learn **SOLID, Design Patterns, RabbitMQ, CI/CD, AWS**
 
 
 - 💬 Ask me about **Backend Development, API Rest, Git, Linux**
