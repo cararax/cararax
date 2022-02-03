@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Carara</h1>
 <h3 align="center">A passionate backend developer from Brazil.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cararax&label=Profile%20views&color=0e75b6&style=flat" alt="cararax" /> </p>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=cararax&label=Profile%20views&color=0e75b6&style=flat" alt="cararax" /> </p>
 
 
 [//]: # (<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cararax" alt="cararax" /></a> </p>)
