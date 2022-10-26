@@ -7,7 +7,7 @@
 
 [//]: # (<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cararax" alt="cararax" /></a> </p>)
 
-- 🔭 I'm working at [Lojas Renner](https://www.lojasrenner.com.br//0 as a **backend developer**
+- 🔭 I'm working at [Lojas Renner](https://www.lojasrenner.com.br/) as a **backend developer**
 - 🎓I'm graduating in **Internet Systems Technology @ [UFSM](https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-sistemas-para-internet/)**
 
 - 🌱 I’m currently learning **Java, Spring Boot, Docker, Spring Cloud, Microservices**
