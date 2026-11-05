@@ -1,59 +1,48 @@
 
-<h1 align="center">Hi 👋, I'm Pedro Carara</h1>
-<h3 align="center">A passionate backend developer from Brazil.</h3>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cararax&label=Profile%20views&color=0e75b6&style=flat" alt="cararax" /> </p>
 
 
 [//]: # (<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cararax" alt="cararax" /></a> </p>)
+<h1 align="center">Hi 👋, I'm Pedro Carara</h1>
+<h3 align="center">Backend Engineer · Java · Distributed Systems · Event-Driven Architecture</h3>
+<h3 align="center">A passionate backend developer from Brazil.</h3>
 
-- 🔭 I'm an experienced **backend developer** with more than 3 years of experience in software development, specialized in **Java and Spring** with strong knowledge in **microservices architecture**. Proficient in integrations between RESTful APIs, SQL and NoSQL databases, messaging solutions, containerization, and unit and integration testing. I am also familiar with CI/CD and cloud platforms.
-- 🎓I'm graduating in **Bachelor of Technology Internet Systems @ [Federal University of Santa Maria](https://www.ufsm.br/cursos/graduacao/santa-maria/tecnologia-em-sistemas-para-internet/)** and constantly seeking to learn and improve my skills.
-- 🌱 I’m currently focused on **mastering Java, Spring Boot, Docker, Spring Cloud, Microservices, RabbitMQ and AWS**
-- 📖I'm looking forward to learn **SOLID, Design Patterns, RabbitMQ, CI/CD, AWS**
-- 💬 Ask me about Backend Development, Software Architecture, API Rest, Git, and Linux. **I am always open to discuss new ideas and projects.**
-- 📧 Reach me at cararax@gmail.com. **I am always open to connect and discuss new opportunities and ideas.**
-- 👨‍💻 Check out **my experiences** on my LinkedIn profile at https://www.linkedin.com/in/carara/.
+<p align="center">
+  <a href="https://www.linkedin.com/in/carara/">LinkedIn</a> ·
+  <a href="mailto:cararax@gmail.com">Email</a>
+</p>
 
-#### Some of my skills include:
+---
 
-Languages:Languages:
+Backend engineer with 7 years of experience building distributed Java systems for the financial and retail sectors. I work with Java 17, Spring Boot, Spring WebFlux, Kafka, RabbitMQ, PostgreSQL, MongoDB, Docker, and automated testing. My focus is availability, scalability, and maintainability — turning reliability problems into practical backend solutions.
 
-- English (Fluent)
-- Portuguese (Native)
+I'm currently deepening my knowledge of AWS and Kubernetes. Based in Brazil, I'm open to remote backend opportunities.
 
-Backend Development:
+## Featured projects
 
-- `Java 17`
-- `Spring (Boot, MVC, Data, Security, Cloud)`
-- `SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB)`
-- `Hibernate`
-- `Caching`
-- `RabbitMQ`
+### [voting-system-app](https://github.com/cararax/voting-system-app)
+Event-driven voting system built with Java 17, Spring Boot, PostgreSQL, RabbitMQ, and Docker Compose. It demonstrates service separation, synchronous and asynchronous communication, OpenAPI contracts, and business rules across services.
 
-Software Architecture:
+### [ObservePointCodingChallenge](https://github.com/cararax/ObservePointCodingChallenge)
+Coding challenge focused on data structures, algorithmic complexity, and tests, with documented trade-offs and a clear explanation of the chosen approach.
 
-- `Microservices Architecture`
-- `RESTful APIs`
-- `Design Patterns`
-- `OOP Principles, SOLID, DRY, KISS`
+## Core stack
 
-Cloud Computing and DevOps:
+**Languages & frameworks:** Java 17 · Spring Boot · Spring WebFlux · Spring Data · Spring Security · Spring Cloud
 
-- `AWS Services such as Lambda, S2, EC2, RDS, ECS, and others`
-- `Docker`
-- `CI/CD pipelines, Jenkins`
-- `Git`
+**Messaging & data:** Kafka · RabbitMQ · PostgreSQL · MySQL · MongoDB · Redis
 
-Interpersonal Skills:
+**Infrastructure & quality:** Docker · Jenkins · CI/CD · JUnit · Mockito · Testcontainers · Cucumber · TDD/BDD
 
-- `Agile Methodologies with Scrum and Kanban`
-- `Collaborative and communicative team member`
-- `Strong problem-solving skills`
-- `Commitment to continuous learning`
+**Currently deepening:** AWS · Kubernetes
 
-Testing and Quality Assurance:
+## Currently
 
-- `TDD, BDD`
-- `Unit, Integration, and End-to-End Testing`
-- `JUnit, Cucumber`
+- Building a public case study for `voting-system-app`: architecture, decisions, trade-offs, and lessons learned.
+- Deepening AWS and Kubernetes through hands-on projects.
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/carara](https://www.linkedin.com/in/carara/)
+- Email: [cararax@gmail.com](mailto:cararax@gmail.com)
+- Languages: Portuguese (native) · English (fluent)
